@@ -1,0 +1,14 @@
+{
+  "name": "@zlux/core",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.13.2"
+  },
+  "workspaces": [
+    "zlux-app-manager/**",
+    "zlux-app-server/**",
+    "zlux-platform/**",
+    "zlux-server-framework/**",
+    "zlux-shared/**"
+  ]
+}

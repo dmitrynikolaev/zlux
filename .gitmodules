@@ -1,18 +1,18 @@
 [submodule "zlux-app-manager"]
 	path = zlux-app-manager
-	url = git@github.com:zowe/zlux-app-manager.git
+	url = git@github.com:dmitrynikolaev/zlux-app-manager.git
 [submodule "zlux-platform"]
 	path = zlux-platform
-	url = git@github.com:zowe/zlux-platform.git
+	url = git@github.com:dmitrynikolaev/zlux-platform.git
 [submodule "zlux-shared"]
 	path = zlux-shared
-	url = git@github.com:zowe/zlux-shared.git
+	url = git@github.com:dmitrynikolaev/zlux-shared.git
 [submodule "zlux-build"]
 	path = zlux-build
-	url = git@github.com:zowe/zlux-build.git
+	url = git@github.com:dmitrynikolaev/zlux-build.git
 [submodule "zlux-server-framework"]
 	path = zlux-server-framework
-	url = git@github.com:zowe/zlux-server-framework.git
+	url = git@github.com:dmitrynikolaev/zlux-server-framework.git
 [submodule "zlux-app-server"]
 	path = zlux-app-server
-	url = git@github.com:zowe/zlux-app-server.git
+	url = git@github.com:dmitrynikolaev/zlux-app-server.git

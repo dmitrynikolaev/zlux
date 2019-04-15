@@ -1,0 +1,11 @@
+{
+  "packages": [
+    "zlux-app-manager/**",
+    "zlux-app-server/**",
+    "zlux-platform/**",
+    "zlux-server-framework/**",
+    "zlux-shared/**"
+  ],
+  "npmClient": "npm",
+  "version": "1.2.0"
+}
